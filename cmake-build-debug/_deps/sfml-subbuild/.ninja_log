@@ -1,0 +1,21 @@
+# ninja log v5
+1	57	7063571408179111	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	17ef02ac62b16931
+1	57	7063571408179111	C:/Users/barte/Desktop/Projekty C++/PJC/Projekt/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	17ef02ac62b16931
+58	40637	7063571813978429	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	8f185dee7919ad30
+58	40637	7063571813978429	C:/Users/barte/Desktop/Projekty C++/PJC/Projekt/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	8f185dee7919ad30
+40638	43750	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	6b84183d8f49749
+40638	43750	0	C:/Users/barte/Desktop/Projekty C++/PJC/Projekt/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	6b84183d8f49749
+43750	43801	7063571845618209	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	67c23751cca67ae0
+43750	43801	7063571845618209	C:/Users/barte/Desktop/Projekty C++/PJC/Projekt/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	67c23751cca67ae0
+43801	43851	7063571846119026	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	39e97ee8814eff13
+43801	43851	7063571846119026	C:/Users/barte/Desktop/Projekty C++/PJC/Projekt/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	39e97ee8814eff13
+43851	43900	7063571846607731	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	7b08ded90100ea9c
+43851	43900	7063571846607731	C:/Users/barte/Desktop/Projekty C++/PJC/Projekt/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	7b08ded90100ea9c
+43900	43949	7063571847096423	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	a287c7d23d9a5723
+43900	43949	7063571847096423	C:/Users/barte/Desktop/Projekty C++/PJC/Projekt/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	a287c7d23d9a5723
+43949	43997	7063571847585115	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	31e222204831123d
+43949	43997	7063571847585115	C:/Users/barte/Desktop/Projekty C++/PJC/Projekt/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	31e222204831123d
+43997	44064	7063571848243357	CMakeFiles/sfml-populate-complete	11eb6c4d73c90207
+43997	44064	7063571848243357	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	11eb6c4d73c90207
+43997	44064	7063571848243357	C:/Users/barte/Desktop/Projekty C++/PJC/Projekt/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	11eb6c4d73c90207
+43997	44064	7063571848243357	C:/Users/barte/Desktop/Projekty C++/PJC/Projekt/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	11eb6c4d73c90207

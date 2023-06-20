@@ -1,0 +1,5 @@
+C:/Users/barte/Desktop/Projekty C++/PJC/Projekt/cmake-build-debug/CMakeFiles/Projekt.dir
+C:/Users/barte/Desktop/Projekty C++/PJC/Projekt/cmake-build-debug/CMakeFiles/package.dir
+C:/Users/barte/Desktop/Projekty C++/PJC/Projekt/cmake-build-debug/CMakeFiles/package_source.dir
+C:/Users/barte/Desktop/Projekty C++/PJC/Projekt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/barte/Desktop/Projekty C++/PJC/Projekt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
